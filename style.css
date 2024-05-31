@@ -52,7 +52,8 @@ nav ul li a:hover {
 }
 
 #home {
-    background: #1E3A8A;
+    background-image: url(img/home.jpg);
+    background-size: cover;
     color: white;
     text-align: center;
     padding: 100px 50px;
